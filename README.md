@@ -14,4 +14,4 @@ Web page for university final project
 
 ## Authors
 
-- [Erick](https://github.com/ErickSolisR16)
+- [Erick](https://github.com/ErickSR1601)
